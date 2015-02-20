@@ -1,0 +1,12 @@
+D:\Documents\SharpDevelop Projects\Ipes\Feed\obj\Debug\Feed.csprojResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\Ipes\Feed\bin\Debug\Feed.exe.config
+D:\Documents\SharpDevelop Projects\Ipes\Feed\bin\Debug\Feed.exe
+D:\Documents\SharpDevelop Projects\Ipes\Feed\bin\Debug\Feed.pdb
+D:\Documents\SharpDevelop Projects\Ipes\Feed\obj\Debug\Feed.exe
+D:\Documents\SharpDevelop Projects\Ipes\Feed\obj\Debug\Feed.pdb
+D:\Documents\SharpDevelop Projects\Feed\bin\Debug\Feed.exe.config
+D:\Documents\SharpDevelop Projects\Feed\bin\Debug\Feed.exe
+D:\Documents\SharpDevelop Projects\Feed\bin\Debug\Feed.pdb
+D:\Documents\SharpDevelop Projects\Feed\obj\Debug\Feed.csprojResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\Feed\obj\Debug\Feed.exe
+D:\Documents\SharpDevelop Projects\Feed\obj\Debug\Feed.pdb
